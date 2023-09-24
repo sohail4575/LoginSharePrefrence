@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginSharePrefrence</string>
+    <string name="enter_your_name">enter_your_name</string>
+    <string name="enter_your_email">enter_your_email</string>
+    <string name="Enter_your_name">Enter your name</string>
+    <string name="Enter_your_email">Enter your email</string>
+    <string name="show">show</string>
+    <string name="login">Login</string>
+    <string name="edugaon">EduGaon</string>
+    <string name="sohail">Sohail</string>
+    <string name="Email">Sohail</string>
+    <string name="logout">Logout</string>
+</resources>
